@@ -1,1 +1,3 @@
-aquarela_env/
+secrets.json
+.env
+.pylintrc
